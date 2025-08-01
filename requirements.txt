@@ -1,0 +1,7 @@
+PyGithub
+matplotlib
+seaborn
+plotly
+click
+pandas
+pytest
